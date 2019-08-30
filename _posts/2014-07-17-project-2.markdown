@@ -1,15 +1,11 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Drenagem linfática
+subtitle: Clique para saber mais
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: drenagem.png
+thumbnail: drenagem.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Técnica de massagem que trabalha o sistema linfático, estimulando-o a trabalhar de forma rápida e sendo indicada para combater a retenção de líquidos, celulite e também como terapia relaxante.
 
 ---
