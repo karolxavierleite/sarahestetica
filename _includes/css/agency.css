@@ -14,6 +14,11 @@ body {
     color: #{{ site.data.template.color.muted }};
 }
 
+
+.text-content {
+    color: #{{ site.data.template.color.contact-content }};
+}
+
 .text-primary {
     color: #{{ site.data.template.color.primary }};
 }

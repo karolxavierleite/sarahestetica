@@ -4,6 +4,7 @@ color:
   secondary: 73b78c
   secondary-dark: 333
   muted: 777
+  contact-content: fff
 
 # Font Families
 font:
