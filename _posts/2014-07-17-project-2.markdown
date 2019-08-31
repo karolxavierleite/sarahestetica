@@ -3,8 +3,9 @@ title: Drenagem linfática
 subtitle: Clique para saber mais
 layout: default
 modal-id: 2
+date: 2014-07-17
 img: drenagem.png
-thumbnail: drenagem.png
+thumbnail: drenagem-thumbnail.png
 alt: image-alt
 description: Técnica de massagem que trabalha o sistema linfático, estimulando-o a trabalhar de forma rápida e sendo indicada para combater a retenção de líquidos, celulite e também como terapia relaxante.
 

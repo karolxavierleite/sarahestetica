@@ -3,8 +3,9 @@ title: Peeling Facial
 subtitle: Clique para saber mais
 layout: default
 modal-id: 4
+date: 2014-07-16
 img: peeling.png
-thumbnail: peeling.png
+thumbnail: peeling-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

@@ -1,0 +1,12 @@
+---
+title: Peeling Facial
+subtitle: Clique para saber mais
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: peeling.png
+thumbnail: peeling-thumbnail.png
+alt: image-alt
+description: Estimula a renovação das células da pele através de uma descamação controlada com o uso de substâncias e ativos selecionados. O procedimento pode ser utilizado para clarear manchas e sinais resultantes da acne, além de atuar no tratamento de rugas e linhas de expressão.
+
+---
