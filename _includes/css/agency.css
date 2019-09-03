@@ -273,6 +273,7 @@ fieldset[disabled] .btn-xl.active {
 header {
     text-align: center;
     color: #fff;
+    text-shadow: 1px 1px 4px #22602b;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/header_oleo.jpg');
     background-position: center center;
@@ -315,7 +316,6 @@ header .intro-text .intro-heading {
         margin-bottom: 25px;
         font-family: {{ site.data.template.font.secondary }};
         font-size: 40px;
-        font-style: italic;
         line-height: 40px;
     }
 
