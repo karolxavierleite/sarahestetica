@@ -7,9 +7,7 @@ date: 2014-07-16
 img: microagulhamento.png
 thumbnail: microagulhamento-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+agendamento: ''
 description: Terapia para indução percutânea de colágeno que estimula a renovação celular, atuando em sequelas de acne, linhas de expressão, manchas e melasma. É necessário avaliação prévia antes do procedimento.
 
 ---
