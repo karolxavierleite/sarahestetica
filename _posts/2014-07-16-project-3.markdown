@@ -7,7 +7,7 @@ date: 2014-07-16
 img: consultoria.png
 thumbnail: consultoria-thumbnail.png
 alt: image-alt
-agendamento: ''
+agendamento: 'https://sarahestetica.appointlet.com/s/avaliacao-e-consultoria-facial'
 description: Após uma criteriosa análise, a consultoria tem o objetivo de sanar dúvidas relacionadas a seu tipo de pele e necessidades, através da elaboração de uma rotina de cuidados e sugestões de tratamentos personalizados. É possível adicionar a consultoria a outro serviço avulso (o valor passa a ser um acréscimo sobre o serviço escolhido), basta informar na mensagem no momento do agendamento.
 
 ---

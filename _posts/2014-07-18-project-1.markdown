@@ -7,7 +7,7 @@ date: 2014-07-18
 img: limpezapele.png
 thumbnail: limpezapele-thumbnail.png
 alt: image-alt
-agendamento: ''
+agendamento: 'https://sarahestetica.appointlet.com/s/limpeza-de-pele'
 description: É o procedimento básico antes de iniciar qualquer tratamento. Tem como objetivo remover as impurezas, cravos e pústulas (espinhas) e deixar a pele mais saudável. Inclui higienização, extração, cauterização, hidratação e fotoproteção.
 
 ---

@@ -7,7 +7,7 @@ date: 2014-07-17
 img: peeling.png
 thumbnail: peeling-thumbnail.png
 alt: image-alt
-agendamento: ''
+agendamento: 'https://sarahestetica.appointlet.com/s/peeling-vegetal'
 description: Estimula a renovação das células da pele através do uso de substâncias e ativos naturais selecionados. O procedimento pode ser utilizado para clarear manchas e inflamações de acne, além de atuar no tratamento de rugas e linhas de expressão.
 
 ---

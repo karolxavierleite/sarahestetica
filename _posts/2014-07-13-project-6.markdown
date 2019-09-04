@@ -7,7 +7,7 @@ date: 2014-07-13
 img: massagem.png
 thumbnail: massagem-thumbnail.png
 alt: image-alt
-agendamento: ''
+agendamento: 'https://sarahestetica.appointlet.com/s/massagem-relaxante'
 description: É uma técnica com toques precisos para estimular a produção de hormônios responsáveis pelo relaxamento. O principal deles é a ocitocina, que diminui o estresse, combate o medo e melhora relacionamentos.
 
 ---
