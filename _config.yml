@@ -17,9 +17,9 @@ people:
   pic: 2
   position: "\"Adoro fazer peeling e limpeza de pele com a Sarah! Minha pele fica limpa e macia e não dói! Também fiz drenagem linfática e amei a massagem e me senti muito mais leve! Recomendo para todas as minhas amigas!\""
 
-- name: Geovana Fiamozzini
+- name: Thais Nunes
   pic: 3
-  position: "\"A Sarah é incrível! Como profissional, já na primeira sessão eu percebi diminuição das minhas celulites e me senti bem menos inchada, mãos de fada! E como pessoa também, sempre puxando assunto e deixando a gente bem à vontade, queria ser amiga dela hahahaha\""
+  position: "\"Conheço o trabalho da Sarah desde quando atendia a domicílio e posso falar com toda certeza que independente de onde esteja, seu trabalho é impecável. Lembro de ter ficado surpresa com a minha pele pós limpeza, estava linda e renovada, dava pra ver o resultado de um trabalho com amor e capricho. A conheci através de um grupo no face e não largo mais. E com o tempo vi que a Sarah é uma profissional e pessoal incrível &hearts; Preço justo pelo trabalho de qualidade.\""
 
 - name: Daniella Origuela
   pic: 4
@@ -28,6 +28,10 @@ people:
 - name: Ariane Marcinari
   pic: 5
   position: "\"A Sarah é simplesmente a DONA da minha pele, mais do que eu mesma hahaha. Um ano cuidando de mim, um ano de amizade e muito amor! Amo muito minha fadinha\""
+
+- name: Geovana Fiamozzini
+  pic: 6
+  position: "\"A Sarah é incrível! Como profissional, já na primeira sessão eu percebi diminuição das minhas celulites e me senti bem menos inchada, mãos de fada! E como pessoa também, sempre puxando assunto e deixando a gente bem à vontade, queria ser amiga dela hahahaha\""
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
