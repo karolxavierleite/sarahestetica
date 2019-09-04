@@ -9,18 +9,25 @@ description: "Centro de Estética especializado em slow beauty e tratamentos nat
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Isabela Pinheiro
   pic: 1
-  position: "'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'"
+  position: "\"Nunca fui tão bem atendida! Ambiente super confortável, atendimento impecável, amo todas as dicas e conhecimento que a Sarah passa sempre e o resultado também é incrível, nunca tive resultados tão bons com a limpeza de pele, minha pele sempre ficava muuito irritada. Não troco por nada!\""
 
-- name: Larry Parker
+- name: Julia Santos
   pic: 2
-  position: "'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'"
+  position: "\"Adoro fazer peeling e limpeza de pele com a Sarah! Minha pele fica limpa e macia e não dói! Também fiz drenagem linfática e amei a massagem e me senti muito mais leve! Recomendo para todas as minhas amigas!\""
 
-- name: Diana Petersen
+- name: Geovana Fiamozzini
   pic: 3
-  position: "'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'"
+  position: "\"A Sarah é incrível! Como profissional, já na primeira sessão eu percebi diminuição das minhas celulites e me senti bem menos inchada, mãos de fada! E como pessoa também, sempre puxando assunto e deixando a gente bem à vontade, queria ser amiga dela hahahaha\""
 
+- name: Daniella Origuela
+  pic: 4
+  position: "\"Os tratamentos são incríveis, a gente vê o resultado de verdade. Os produtos que a Sarah usa são de qualidades, com aromas relaxantes e naturais. E os preços são super justos. Eu adoro e recomendo!\""
+
+- name: Ariane Marcinari
+  pic: 5
+  position: "\"A Sarah é simplesmente a DONA da minha pele, mais do que eu mesma hahaha. Um ano cuidando de mim, um ano de amizade e muito amor! Amo muito minha fadinha\""
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
