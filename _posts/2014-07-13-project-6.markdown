@@ -1,12 +1,12 @@
 ---
-title: Peeling Facial
-subtitle: Clique para saber mais
+title: Massagem Relaxante
+subtitle: Clique na foto para saber mais
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: peeling.png
-thumbnail: peeling-thumbnail.png
+date: 2014-07-13
+img: massagem.png
+thumbnail: massagem-thumbnail.png
 alt: image-alt
-description: Estimula a renovação das células da pele através de uma descamação controlada com o uso de substâncias e ativos selecionados. O procedimento pode ser utilizado para clarear manchas e sinais resultantes da acne, além de atuar no tratamento de rugas e linhas de expressão.
+description: É uma técnica com toques precisos para estimular a produção de hormônios responsáveis pelo relaxamento. O principal deles é a ocitocina, que diminui o estresse, combate o medo e melhora relacionamentos.
 
 ---

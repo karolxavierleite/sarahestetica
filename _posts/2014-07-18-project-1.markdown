@@ -1,12 +1,12 @@
 ---
 title: Limpeza de pele
-subtitle: Clique para saber mais
+subtitle: Clique na foto para saber mais
 layout: default
 modal-id: 1
 date: 2014-07-18
 img: limpezapele.png
 thumbnail: limpezapele-thumbnail.png
 alt: image-alt
-description: Tem como objetivo remover as impurezas e deixar a pele com um aspecto mais saudável. Inclui higienização, extração, cauterização, hidratação e fotoproteção.
+description: É o procedimento básico antes de iniciar qualquer tratamento. Tem como objetivo remover as impurezas, cravos e pústulas (espinhas) e deixar a pele mais saudável. Inclui higienização, extração, cauterização, hidratação e fotoproteção.
 
 ---

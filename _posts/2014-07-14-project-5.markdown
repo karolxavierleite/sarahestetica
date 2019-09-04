@@ -1,12 +1,12 @@
 ---
-title: Peeling Facial
-subtitle: Clique para saber mais
+title: Drenagem Linfática
+subtitle: Clique na foto para saber mais
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: peeling.png
-thumbnail: peeling-thumbnail.png
+img: drenagem.png
+thumbnail: drenagem-thumbnail.png
 alt: image-alt
-description: Estimula a renovação das células da pele através de uma descamação controlada com o uso de substâncias e ativos selecionados. O procedimento pode ser utilizado para clarear manchas e sinais resultantes da acne, além de atuar no tratamento de rugas e linhas de expressão.
+description: Técnica de massagem que trabalha o sistema linfático, estimulando-o a funcionar de forma mais rápida e sendo indicada para eliminar toxinas e combater a retenção de líquido, além de servir como terapia relaxante.
 
 ---

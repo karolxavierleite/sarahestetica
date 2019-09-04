@@ -1,6 +1,6 @@
 ---
-title: Peeling Facial
-subtitle: Clique para saber mais
+title: Microagulhamento
+subtitle: Clique na foto para saber mais
 layout: default
 modal-id: 4
 date: 2014-07-16
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Estimula a renovação das células da pele através de uma descamação controlada com o uso de substâncias e ativos selecionados. O procedimento pode ser utilizado para clarear manchas e sinais resultantes da acne, além de atuar no tratamento de rugas e linhas de expressão.
+description: Terapia para indução percutânea de colágeno que estimula a renovação celular, atuando em sequelas de acne, linhas de expressão, manchas e melasma. É necessário avaliação prévia antes do procedimento.
 
 ---
