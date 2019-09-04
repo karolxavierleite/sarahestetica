@@ -271,11 +271,10 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    text-align: center;
+    text-align: left;
     color: #fff;
-    text-shadow: 1px 1px 4px #22602b;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header_oleo.jpg');
+    background-image: url('{{ site.baseurl }}/img/header.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
