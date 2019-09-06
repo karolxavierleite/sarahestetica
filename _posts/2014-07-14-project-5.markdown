@@ -6,7 +6,7 @@ modal-id: 5
 date: 2014-07-14
 img: drenagem.png
 thumbnail: drenagem-thumbnail.png
-alt: image-alt
+alt: Foto das mãos de uma esteticista fazendo a drenagem em uma barriga.
 agendamento: 'https://sarahestetica.appointlet.com/s/drenagem-linfatica'
 description: Técnica de massagem que trabalha o sistema linfático, estimulando-o a funcionar de forma mais rápida e sendo indicada para eliminar toxinas e combater a retenção de líquido, além de servir como terapia relaxante.
 

@@ -6,7 +6,7 @@ modal-id: 1
 date: 2014-07-18
 img: limpezapele.png
 thumbnail: limpezapele-thumbnail.png
-alt: image-alt
+alt: Foto de uma mulher fazendo limpeza de pele, com creme branco aplicado com pincel em metade do rosto.
 agendamento: 'https://sarahestetica.appointlet.com/s/limpeza-de-pele'
 description: É o procedimento básico antes de iniciar qualquer tratamento. Tem como objetivo remover as impurezas, cravos e pústulas (espinhas) e deixar a pele mais saudável. Inclui higienização, extração, cauterização, hidratação e fotoproteção.
 

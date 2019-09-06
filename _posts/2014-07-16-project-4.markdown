@@ -6,7 +6,7 @@ modal-id: 4
 date: 2014-07-16
 img: microagulhamento.png
 thumbnail: microagulhamento-thumbnail.png
-alt: image-alt
+alt: Foto de uma mulher começando o microagulhamento, com as mãos da esteticista posicionadas em sua testa.
 agendamento: 'https://sarahestetica.appointlet.com/s/microagulhamento'
 description: Terapia para indução percutânea de colágeno que estimula a renovação celular, atuando em sequelas de acne, linhas de expressão, manchas e melasma. É necessário avaliação prévia antes do procedimento.
 
